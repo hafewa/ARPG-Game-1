@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkGod", "DarkGod.csproj", "{275F8BFD-C720-5266-1F65-00A434AFB5C8}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkGod.Plugins", "DarkGod.Plugins.csproj", "{00DEB3DE-F484-053B-DD49-7C60A88193F4}"
 EndProject
 Global
@@ -11,10 +9,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{275F8BFD-C720-5266-1F65-00A434AFB5C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{275F8BFD-C720-5266-1F65-00A434AFB5C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{275F8BFD-C720-5266-1F65-00A434AFB5C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{275F8BFD-C720-5266-1F65-00A434AFB5C8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{00DEB3DE-F484-053B-DD49-7C60A88193F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{00DEB3DE-F484-053B-DD49-7C60A88193F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00DEB3DE-F484-053B-DD49-7C60A88193F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
